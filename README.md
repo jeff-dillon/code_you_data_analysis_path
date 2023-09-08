@@ -25,14 +25,14 @@ This is where it all begins! A hands-on introduction the the essential tools
 you'll need to build real, working data analysis projects. You'll learn what
 Data Analysts actually do - the foundations for a career in Data.
 
-## Introduction
+### Introduction
 
 - How this course will work - [lesson](introduction/how_this_course_will_work.md)
 - Introduction to Data Analysis - [lesson](introduction/introduction_to_data_analysis.md)
 - Motivation and Mindset - [lesson](introduction/motivation_and_mindset.md)
 - Asking for help - [lesson](introduction/asking_for_help.md)
 
-## Prerequisites
+### Prerequisites
 
 - Computer basics - [lesson](installations/computer_basics.md)
 - Installation Overview - [lesson](installations/computer_basics.md)
@@ -41,11 +41,11 @@ Data Analysts actually do - the foundations for a career in Data.
 - Command Line Basics - [lesson](installations/command_line_basics.md)
 - Setting up Git - [lesson](installations/setting_up_git.md)
 
-## Git Basics
+### Git Basics
 - Introduction to Git - [lesson](git/intro_to_git.md)
 - Git Basics - lesson
 
-## Python Foundations
+### Python Foundations
 - Introduction to Python - [lesson](python/intro_to_python.md)
 - Fundamentals - lesson
 - Lists & Loops - lesson
@@ -55,7 +55,7 @@ Data Analysts actually do - the foundations for a career in Data.
 - Libraries - lesson
 
 
-## Pandas
+### Pandas
 - Introduction to Pandas - [lesson](pandas/intro_to_pandas.md)
 - Creating, Reading & Writing - lesson
 - Indexing, Selecting, & Assigning - lesson
@@ -65,7 +65,7 @@ Data Analysts actually do - the foundations for a career in Data.
 - Renaming & Combining - lesson
 
 
-## SQL
+### SQL
 - Introduction to SQL - [lesson](sql/intro_to_sql.md)
 - Manipulation - lesson
 - Queries - lesson
@@ -73,10 +73,11 @@ Data Analysts actually do - the foundations for a career in Data.
 - Multiple Tables - lesson
 
 
-## Dashboards
+### Dashboards
 - Introduction to Dashboards - [lesson](dashboards/intro_to_dashboards.md)
 - Importing Data - lesson
 - Graphs & Dashboards - lesson
+
 
 ## Capstone Project
 - Introduction to the Capstone Project - [lesson](capstone/intro_to_capstone.md)
@@ -84,6 +85,13 @@ Data Analysts actually do - the foundations for a career in Data.
 - Data Sources - lesson
 - Example Projects - lesson
 
-## Conclusion
+### Conclusion
 - Continue Learning - [lesson](conclusion/continue_learning.md)
 
+
+
+## Help us make this pathway great! 
+
+This curriculum is open source. See something that needs to be fixed or improved? 
+Check out our [contribution guidelines](docs/contributing.md) and help improve 
+this pathway.
