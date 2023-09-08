@@ -1,8 +1,5 @@
 ### Introduction
 
-
-### Lesson Overview
-
 This section contains a general overview of topics that you will learn in this 
 lesson.
 
@@ -30,18 +27,15 @@ independent of the "Ones and Zeros" used by the computer's hardware and software
 - Early versions of Python (0.9.0 - 2.0) showcased Python's core features, 
 including exception handling, functions, and modules.
 - Python 3.0, also known as "Python 3000" or "Py3k," was a major overhaul of 
-the language. It aimed to address various design flaws and inconsistencies in 
-Python 2 while maintaining backward compatibility. Python 3.0 is not backward 
-compatible with Python 2.
+the language. Python 3.0 is not backward compatible with Python 2.
 - Any modern version of Python (version 3.9 or greater) will work for this course.
 
 
 ### Pythonic Principles
 
-Python's design philosophy emphasizes code readability.
-
-Pythonic is the word describing writing code that doesn't just get the syntax 
-right, but uses the language the way it is intended to be used.
+Python's design philosophy emphasizes code readability. Pythonic is the word 
+describing writing code that doesn't just get the syntax right, but uses the 
+language the way it is intended to be used.
 
 Python Enhancement Proposals (PEPs) specify Python features and document 
 design decisions. There are hundreds of PEPs, but it is worthwhile to review 
@@ -77,8 +71,8 @@ or the guiding principles for Python's design.
 
 If you are brand new to programming, these principles won't make a lot of 
 sense yet. At a high level, you can focus on the idea of writing simple, easily 
-understood code. Think of writing code as writing for other people to read the 
-code as much as writing for the computer to run the code.
+understood code. Think of writing code as writing for other people to read as 
+much as writing for the computer to run the code.
 
 
 ### Summary
@@ -94,8 +88,8 @@ applications.
 
 Links to reading, videos, exercises.
 
-1. Setting up your Python environment
-
+1. [openSAP: Learn Python - Week 0](https://open.sap.com/courses/python1/items/3p5Q43h80izv8MrAHKF5Lp)
+1. [Python in 100 Seconds](https://www.youtube.com/watch?v=x7X9w_GIm1s)
 
 ### Knowledge Check
 
