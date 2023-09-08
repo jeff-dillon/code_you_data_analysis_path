@@ -88,8 +88,8 @@ applications.
 
 Links to reading, videos, exercises.
 
-1. [openSAP: Learn Python - Week 0](https://open.sap.com/courses/python1/items/3p5Q43h80izv8MrAHKF5Lp)
-1. [Python in 100 Seconds](https://www.youtube.com/watch?v=x7X9w_GIm1s)
+1. Complete all of the materials in [openSAP: Learn Python - Week 0](https://open.sap.com/courses/python1/items/3p5Q43h80izv8MrAHKF5Lp).
+1. Watch the [Python in 100 Seconds](https://www.youtube.com/watch?v=x7X9w_GIm1s) video.
 
 ### Knowledge Check
 
