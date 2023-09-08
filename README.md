@@ -1,6 +1,6 @@
-# Code You: Data Analysis Path
+# Code:You | Data Analysis Path
 
-**The Code You: Data Analysis Path** is an open source data analysis curriculum. 
+The **Code:You - Data Analysis Path** is an open source data analysis curriculum. 
 Not everyone has access to a computer science education or the funds to attend 
 an intensive coding school and neither of those is right for everyone anyway. 
 
