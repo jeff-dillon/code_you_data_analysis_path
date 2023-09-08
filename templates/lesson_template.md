@@ -51,3 +51,8 @@ This section contains helpful links to related content. It isn’t required, so 
 - Resource 1
 - Resource 2
 - Resrouce 3
+
+
+### Navigation
+
+- [Back to Course Overview](../README.md)
