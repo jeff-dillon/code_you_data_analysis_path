@@ -19,7 +19,7 @@ The structure and content in this course is based heavily on
 the originl content from The Odin Project has been adapted to the Data Analysis 
 topic.
 
-## Data Analysis Foundations
+## Data Analysis Path
 
 This is where it all begins! A hands-on introduction the the essential tools
 you'll need to build real, working data analysis projects. You'll learn what
@@ -73,7 +73,7 @@ Data Analysts actually do - the foundations for later courses.
 - Multiple Tables - lesson
 
 
-## Dasboards
+## Dashboards
 - Introduction to Dashboards - [lesson](dashboards/intro_to_dashboards.md)
 - Importing Data - lesson
 - Graphs & Dashboards - lesson
