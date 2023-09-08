@@ -12,7 +12,7 @@ mentoring sessions and career development resources.
 Louisville, Code Kentucky, and emPOWER UP. All our programs are driven by one 
 purpose: to build a safe and inclusive learning community where anyone can have 
 access to the resources needed to develop a rewarding career in the world of 
-technology. All at no cost to you!
+technology. All at no cost to you! Visit our website for eligibility information.
 
 The structure and content in this course is based heavily on 
 [The Odin Project](https://www.theodinproject.com/) Foundations course. Some of
@@ -23,7 +23,7 @@ topic.
 
 This is where it all begins! A hands-on introduction the the essential tools
 you'll need to build real, working data analysis projects. You'll learn what
-Data Analysts actually do - the foundations for later courses.
+Data Analysts actually do - the foundations for a career in Data.
 
 ## Introduction
 
