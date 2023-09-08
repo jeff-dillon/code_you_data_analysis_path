@@ -1,4 +1,4 @@
-# Code:You | Data Analysis Path
+# Code:You | Data Analysis Pathway
 
 The **Code:You - Data Analysis Path** is an open source data analysis curriculum. 
 Not everyone has access to a computer science education or the funds to attend 
@@ -19,7 +19,7 @@ The structure and content in this course is based heavily on
 the originl content from The Odin Project has been adapted to the Data Analysis 
 topic.
 
-## Data Analysis Path
+## Data Analysis Curriculum
 
 This is where it all begins! A hands-on introduction the the essential tools
 you'll need to build real, working data analysis projects. You'll learn what
@@ -79,7 +79,7 @@ Data Analysts actually do - the foundations for a career in Data.
 - Graphs & Dashboards - lesson
 
 
-## Capstone Project
+### Capstone Project
 - Introduction to the Capstone Project - [lesson](capstone/intro_to_capstone.md)
 - Project Requirements - lesson
 - Data Sources - lesson
